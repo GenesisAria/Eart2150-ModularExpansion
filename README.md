@@ -36,6 +36,7 @@ various not-so-obvious changes and notes:
 - volga can fit repairers and container fork
 - nests can equip detector and regen
 - salamander fits building turret
+- navy ships can be transported via air
 <br>
 
 - screamers are no longer radars (ed can build a large radar on krus after research)
