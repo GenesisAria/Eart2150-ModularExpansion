@@ -74,6 +74,8 @@ various not-so-obvious changes and notes:
 <br>
 rebalanced audio<br>
 <br>
+more consistent unit targeting/firing<br>
+<br>
 and many more changes!
 <br>
 <br>
@@ -88,5 +90,6 @@ and many more changes!
 ownership of unmodified voice lines belong to Topware Interactive
 
 BotCamp AI mod gifted from IEO (Inside Earth Operations) community
+Turret targeting point fix also provided ky IEO community.
 
 some art assets belong to [OperationX](https://www.moddb.com/mods/operation-x) mod (heli laser, ucs radar, antirocket replacement)
