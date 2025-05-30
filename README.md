@@ -72,8 +72,7 @@ various not-so-obvious changes and notes:
 - artillery emplacements modified to be unique per faction (damage and aoe)
 
 <br>
-rebalanced audio
-
+rebalanced audio<br>
 <br>
 and many more changes!
 <br>
