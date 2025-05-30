@@ -23,7 +23,7 @@ New units/buildings
 <br>Prototype (heavy turret)
 <br>Lightning walls (electric weapon)
 <br>UFO
-
+<br><br>
 
 various not-so-obvious changes and notes:
 
