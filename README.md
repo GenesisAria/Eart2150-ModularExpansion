@@ -37,6 +37,7 @@ various not-so-obvious changes and notes:
 - nests can equip detector and regen
 - salamander fits building turret
 - navy ships can be transported via air
+- lc can put a repairer on newhope for upgrade & capture (weak repair)
 <br>
 
 - screamers are no longer radars (ed can build a large radar on krus after research)
