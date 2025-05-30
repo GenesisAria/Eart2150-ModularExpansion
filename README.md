@@ -39,8 +39,8 @@ various not-so-obvious changes and notes:
 - screamers are no longer radars (ed can build a large radar on krus after research)
 - ed supply depot and shipyard have modest radar (same as tier1 radar building, radar model existing on building as visual cue)
 - lc ai builds sdi instead of weather controller, lc sdi has modest radar
-＊ building changes are to blance out shadow vs bases.  ai ucs makes plenty of radar units
-＊ this makes ucs the king of in-field radar saturation, instead of ed
+\＊ building changes are to blance out shadow vs bases.  ai ucs makes plenty of radar units
+\＊ this makes ucs the king of in-field radar saturation, instead of ed
 
 - ed sdi fire rate reduced
 - ucs sdi fire rate reduced, is now self-powered and faster build
