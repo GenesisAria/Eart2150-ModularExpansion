@@ -1,5 +1,5 @@
 # ModularExpansion
-Gameplay Overhaul for Earth2150 The Moon Project & Lost Souls
+Gameplay Overhaul mod for Earth2150 The Moon Project & Lost Souls
 
 Mod is built on [2.2.2.1 community patch](https://github.com/InsideEarth2150/Patches) - requires this or newer to work properly
 
