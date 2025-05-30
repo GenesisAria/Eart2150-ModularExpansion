@@ -86,3 +86,5 @@ and many more changes!
 ownership of unmodified voice lines belong to Topware Interactive
 
 BotCamp AI mod gifted from IEO (Inside Earth Operations) community
+
+some art assets belong to [OperationX](https://www.moddb.com/mods/operation-x) mod (heli laser, radar, antirocket replacement)
