@@ -1,6 +1,7 @@
 # ModularExpansion
 Gameplay Overhaul for Earth2150 The Moon Project & Lost Souls
 
+Mod is built on [2.2.2.1 community patch](https://github.com/InsideEarth2150/Patches) - requires this or newer to work properly
 
 || There are a great many changes to gameplay!
 A lot of it will be relatively apparent or not difficult to figure out, but i will cover some stuff that may be less obvious but very useful to know
