@@ -9,17 +9,17 @@ A lot of it will be relatively apparent or not difficult to figure out, but i wi
 
 New units/buildings
 
->UCS
+\>UCS
 Grizzly (ship turret slots+)
 Truck 150mm C (medium range artillery)
 Minesweeper (fast mine clearer)
 
->ED
+\>ED
 Heavy Tank (ship turret slot)
 Super Tank (120mm autocannon, long range anti-air rockets, and suicide bomb bay)
 Minesweeper (fast mine clearer, with tiny radar)
 
->LC
+\>LC
 Prototype (heavy turret)
 Lightning walls (electric weapon)
 UFO
@@ -39,8 +39,8 @@ various not-so-obvious changes and notes:
 - screamers are no longer radars (ed can build a large radar on krus after research)
 - ed supply depot and shipyard have modest radar (same as tier1 radar building, radar model existing on building as visual cue)
 - lc ai builds sdi instead of weather controller, lc sdi has modest radar
-* building changes are to blance out shadow vs bases.  ai ucs makes plenty of radar units
-* this makes ucs the king of in-field radar saturation, instead of ed
+＊ building changes are to blance out shadow vs bases.  ai ucs makes plenty of radar units
+＊ this makes ucs the king of in-field radar saturation, instead of ed
 
 - ed sdi fire rate reduced
 - ucs sdi fire rate reduced, is now self-powered and faster build
