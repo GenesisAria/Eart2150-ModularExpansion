@@ -49,9 +49,9 @@ various not-so-obvious changes and notes:
 <br>
 <br>
 
-- ed sdi fire rate reduced, double ammo
-- ucs sdi fire rate reduced, double ammo, is now self-powered and faster build
-- lc sdi triple ammo, fast fire rate, very slow turret rotation
+- ed sdi fire rate reduced, more ammo
+- ucs sdi fire rate reduced, more ammo, is now self-powered and faster build
+- lc sdi much more ammo, fast fire rate, very slow turret rotation
 <br>
 
 - all aircraft adjusted range/speed/armour (heavy ed = range, heavy ucs = speed/armour)
