@@ -31,7 +31,7 @@ various not-so-obvious changes and notes:
 ＊ expect a lot of weapon range and damage changes
 
 - builders are amphibious now
-- each facton has a t2 ammo supplier
+- each faction has a t2 ammo supplier
 - all factions can build air container hooks to help ed ally
 - volga can fit repairers and container fork
 - nests can equip detector and regen
